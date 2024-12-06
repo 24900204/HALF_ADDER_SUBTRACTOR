@@ -54,7 +54,8 @@ Figure -02 HALF Subtractor
 
 Developed by:L.Rithika RegisterNumber:24900204
 
-![Screenshot 2024-12-06 220838](https://github.com/user-attachments/assets/7dd82454-e82e-44d2-b304-7f44dae44f31)
+![Screenshot 2024-12-06 220838](https://github.com/user-attachments/assets/efaaf71c-31f3-4313-82e7-13aa1c1b293d)
+
 
 
 **RTL Schematic**
